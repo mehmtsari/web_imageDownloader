@@ -13,7 +13,7 @@ You can see at which stage the process is on the application.
 
 # Note: If you encounter any errors during the process, please restart the application or contact me.
 
-# --------------------------------------
+# ---------------------------------------------------------------------------
 
 # AÇIKLAMA
 Bu proje, /data klasörü içindeki xml veya txt dosyalarından resim indirme işlemi yapar. İndirilen resimler output klasörüne kaydedilir. Bu işlem için bir uygulama olan 'image_downloader.exe' kullanılır.
